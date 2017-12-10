@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springfox-swagger-demo:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="springfox-swagger-demo.war">
+      <element id="artifact" artifact-name="springfox-swagger-demo:war exploded" />
+    </root>
+  </artifact>
+</component>
